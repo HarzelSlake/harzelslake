@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hi there! 👋 Welcome
 
-<!--
-**HarzelSlake/harzelslake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Harzel Slake**, a BS Mathematics graduate from the Pamantasan ng Lungsod ng Maynila. I am a **Data Science Enthusiast** with a huge love for **Data Analysis with Visualization** and building awesome **Machine Learning Models**.
 
-Here are some ideas to get you started:
+I use **Python** and **R** for many data analysis tasks I do and use **Power BI** mainly for dashboard creations. I am also well-versed in **SQL**. Send me a message on any of my socials if you want to learn more about me!
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on this page
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
