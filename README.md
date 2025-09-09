@@ -2,7 +2,7 @@
 
 I am **Harzel Slake**, a BS Mathematics graduate from the Pamantasan ng Lungsod ng Maynila.
 
-I am a **Data Science Enthusiast** with a huge love for **Data Analysis with Visualization** and building awesome **Machine Learning Models**.
+I am an aspiring **Data Scientist** with a huge love for **Data Analysis with Visualization** and building awesome **Machine Learning Models**.
 
 I use **Python** and **R** for many data analysis tasks I do and use **Power BI** mainly for dashboard creations. I am also well-versed in **SQL**. Send me a message on any of my socials if you want to learn more about me!
 ##
