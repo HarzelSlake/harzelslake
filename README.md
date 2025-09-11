@@ -2,7 +2,7 @@
 
 ## Hi👋 I'm Harzel Slake
 
-I am an aspiring 👨‍💻**Data Scientist** with a huge love for 📊**Data Analysis with Visualization** and building awesome 🤖**Machine and 🧠Deep Learning Models**. I am proficient in 🐍**Python** and 📘**R** specializing in statistical data analysis and uses 📊**Power BI** for dashboard creations. I am also well-versed in 🗄️**SQL**.
+I am an aspiring 👨‍💻**Data Analyst** with a huge love for 📊**Data Analysis with Visualization** and building awesome 🤖**Machine and 🧠Deep Learning Models**. I am proficient in 🐍**Python** and 📘**R** specializing in statistical data analysis and uses 📊**Power BI** for dashboard creations. I am also well-versed in 🗄️**SQL**.
 
 Send me a message on any of my socials if you want to learn more about me!
 
